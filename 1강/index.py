@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-token = "ODE1MTYxNzg0NDMxOTM1NTIw.YDoYkg.iReWBC96vjuf91uwUEFiQUtMN3g"
+token = "봇토큰"
 
 bot = commands.Bot(command_prefix="!")
 
