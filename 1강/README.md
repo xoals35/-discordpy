@@ -1,4 +1,5 @@
 # 자 영상에서 끊기 디벨로퍼쪽은 가르쳐 드릴게요!
+# 자 그리고 하나 안가르쳐 준게 있습니다. 비주얼 스튜디오 코드 터미널 연 뒤에 pip install discord.py 쳐주세요
 
 일단 https://discord.com/developers/applications 에 들어간 후 자신에 디스코드 계정으로 로그인합니다. 그다음에 밑에 사진에 나오는걸 클릭합니다.
 
