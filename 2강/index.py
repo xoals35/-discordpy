@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-token = "ODE1MTYxNzg0NDMxOTM1NTIw.YDoYkg.35EHbixKvX-e1rff8dSvsY6XTtA"
+token = "토큰"
 
 bot = commands.Bot(command_prefix="!")
 
